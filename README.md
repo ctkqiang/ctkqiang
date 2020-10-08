@@ -1,10 +1,14 @@
 # John Melody Me
-
+## SELF TAUGHT HAHAH 
 ## I am a generic Software Engineer and a writer.
+
+![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
 
 - 📹 I'm Currently working on WEB RTC related projects.
 - 👨‍💻 I'm Looking for `Better Opportunity` to be recognized.
 - 🔐 Biggest Interest is `Building personal Network Protocol` and `Encryption`.
+
+
 
 </br>
 
