@@ -1,5 +1,5 @@
 # John Melody Me
-## SELF TAUGHT HAHAH 
+## SELF TAUGHT 
 ## I am a generic Software Engineer and a writer.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
@@ -39,4 +39,4 @@
 
 [![John Melody's Stats](https://github-readme-stats.vercel.app/api?username=johnmelodyme&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme&langs_count=)](https://github.com/anuraghazra/github-readme-stats)-->
