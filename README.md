@@ -4,10 +4,16 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
 
+
 - 📹 I'm Currently working on WEB RTC related projects.
 - 👨‍💻 I'm Looking for `Better Opportunity` to be recognized.
 - 🔐 Biggest Interest is `Building personal Network Protocol` and `Encryption`.
 
+
+For Hiring Me For Projects:
+</br> 
+
+[<img src="https://s3.amazonaws.com/fjds/gig_company/original/20/freelancer-logo.png?1587072521" alt="" width="200" />](https://www.freelancer.com/u/johnmelodyme)
 
 
 </br>
