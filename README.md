@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
 
 
-- 📹 I'm Currently working on WEB RTC related projects.
+- 📹 I'm Currently working on `WEBRTC` related projects and `BLE` Projects
 - 👨‍💻 I'm Looking for `Better Opportunity` to be recognized.
 - 🔐 Biggest Interest is `Building personal Network Protocol` and `Encryption`.
 
