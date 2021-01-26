@@ -1,5 +1,5 @@
 # John Melody Me
-## SELF TAUGHT 
+## SELF TAUGHT PROGRAMMER
 ## Software Engineer and a Writer.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
