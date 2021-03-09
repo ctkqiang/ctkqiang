@@ -1,6 +1,6 @@
 # John Melody Me
 ## SELF TAUGHT PROGRAMMER
-## Software Engineer and a Writer.
+## Software Engineer and Voice Actor.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
 
@@ -14,8 +14,7 @@ For Hiring Me For Projects:
 </br> 
 
 [<img src="https://s3.amazonaws.com/fjds/gig_company/original/20/freelancer-logo.png?1587072521" alt="" width="200" />](https://www.freelancer.com/u/johnmelodyme)
-</br>
-</br>
+
 [<img src="https://www.gigworks.co/assets/img/home-logo.png" alt="" width="150" />](https://www.gigworks.co/my/profile/view/johnmelodyme)
 
 </br>
