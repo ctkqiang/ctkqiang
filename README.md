@@ -17,8 +17,7 @@ For Hiring Me For Projects:
 
 [<img src="https://www.gigworks.co/assets/img/home-logo.png" alt="" width="150" />](https://www.gigworks.co/my/profile/view/johnmelodyme)
 
-
-<!-- [<img src="https://devrant.com/static/devrant/img/devrant-landing-banner.png" alt="" width="350" />](https://devrant.com/users/johnmelodyme) -->
+[<img src="https://devrant.com/static/devrant/img/devrant-landing-banner.png" alt="" width="350" />](https://devrant.com/users/johnmelodyme)
 
 </br>
 
