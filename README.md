@@ -47,6 +47,6 @@ For Hiring Me For Projects:
 
 </br>
 
-[![John Melody's Stats](https://github-readme-stats.vercel.app/api?username=johnmelodyme&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![John Melody's Stats](https://github-readme-stats.vercel.app/api?username=johnmelodyme&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme&langs_count=)](https://github.com/anuraghazra/github-readme-stats)-->
