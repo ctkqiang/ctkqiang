@@ -50,6 +50,7 @@ For Hiring Me For Projects:
 
 [![John Melody's Stats](https://github-readme-stats.vercel.app/api?username=johnmelodyme&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <a href="https://github.com/johnmelodyme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme&layout=compact&theme=radical" />
-</a>
+</a>-->
