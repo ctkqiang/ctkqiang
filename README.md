@@ -13,9 +13,7 @@
 For Hiring Me For Projects:
 </br> 
 
-[<img src="https://s3.amazonaws.com/fjds/gig_company/original/20/freelancer-logo.png?1587072521" alt="" width="200" />](https://www.freelancer.com/u/johnmelodyme)
-
-[<img src="https://www.gigworks.co/assets/img/home-logo.png" alt="" width="150" />](https://www.gigworks.co/my/profile/view/johnmelodyme)
+[<img src="https://s3.amazonaws.com/fjds/gig_company/original/20/freelancer-logo.png?1587072521" alt="" width="200" />](https://www.freelancer.com/u/johnmelodyme)[<img src="https://www.gigworks.co/assets/img/home-logo.png" alt="" width="150" />](https://www.gigworks.co/my/profile/view/johnmelodyme)
 
 <!--
 [<img src="https://devrant.com/static/devrant/img/devrant-landing-banner.png" alt="" width="350" />](https://devrant.com/users/johnmelodyme)
