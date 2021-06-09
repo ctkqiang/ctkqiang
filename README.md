@@ -25,10 +25,10 @@
 
 <br />
 
-### See My Rants:
+### See My Contributions:
 <br />
 
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/devrant-512.png" alt="" height="50" width="50" />](https://devrant.com/users/johnmelodyme)
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/devrant-512.png" alt="" height="50" width="50" />](https://devrant.com/users/johnmelodyme)[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdIbjxeE30V20HFwshvOVl50yZie4t1UfrA&usqp=CAU" alt="" height="50" width="50" />](https://stackoverflow.com/users/10758321/john-melody-melissa)
 
 <br />
 
