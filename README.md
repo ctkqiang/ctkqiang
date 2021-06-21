@@ -36,7 +36,10 @@
 <!-- ### Currently My Spotify is Playing 🎧 -->
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/22sblyn4dsymya3xinw3umhai) 
 &nbsp; -->
-[![John Melody's Stats](https://github-readme-stats.vercel.app/api?username=johnmelodyme&show_icons=true)](https://github.com/johnmelodyme/)
+[![John Melody's Stats](https://github-readme-stats.vercel.app/api?username=johnmelodyme&show_icons=true)](https://github.com/johnmelodyme/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 <!-- ### Connect with me :
