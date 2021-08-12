@@ -57,5 +57,6 @@
 
 </br>
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+#### Referal Links:
+[<img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="" height="90" width="150" />](https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stashaway-logo.png/1200px-Stashaway-logo.png" alt="" height="90" width="150" />](https://www.stashaway.my/referrals/johnmva)
 
