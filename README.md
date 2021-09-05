@@ -57,6 +57,10 @@
 
 </br>
 
+#### Join My Discord Server:
+[<img src="https://i0.wp.com/i.imgur.com/nVvmlcN.png?resize=266%2C100&ssl=1" alt="" height="90"  />](https://discord.gg/HsyhFb5CCd)
+
+<br />
 #### Referal Links:
 [<img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="" height="90" width="150" />](https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stashaway-logo.png/1200px-Stashaway-logo.png" alt="" height="90" width="150" />](https://www.stashaway.my/referrals/johnmva)
 
