@@ -14,7 +14,7 @@
 
 - I am a Hard Core Elixir [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzDJ_rLoPnhhaagtE8yJPdkuqxS5uMsHdA5cRgbxBrOz03fHgDlVyJiVzaftP_-2muC8&usqp=CAU" height="20" width="20" />](https://elixir-lang.org/)  Developer 
 - I am a Full Stack Mobile Developer [<img src="https://logowik.com/content/uploads/images/flutter5786.jpg" height="20" width="30" />](https://flutter.dev/) [<img src="https://cdn.freelogovectors.net/svg05/java-logo.svg" height="20" width="20" />](https://www.java.com/ru/) [<img src="https://lh5.googleusercontent.com/proxy/6kCFVnL6VTpvVvYLiset8dOXnOHfx1VUXeSIsgqz6UJRi6m6VEA2H4JqpM9tEmRJwtUhQcBbvekcTFgzEOQlHYsyy-HjBsJZXm6m1h_8pULTy77PMe0j3Ra63hvv2-JIH4lHT5uy9qJd1F4DuBex5v8okMwubhvK2pmLgfHE1d2D6ZKOOHexi031U2zAUu6eELffmx0vbQFpa5yQJPhgYQ1N=s0-d" height="20" width="20" />](https://www.apple.com/my/swift/) [<img src="https://seeklogo.com/images/N/nativescript-logo-309BDE68D3-seeklogo.com.png" height="20" width="20" />](https://nativescript.org/)
-- I developed Backend application with MySQL [<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="20" width="20" />](https://www.mysql.com/) , Erlang [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/erlang_official_logo_icon_169195.png" height="20" width="20" />](https://www.erlang.org/), Elixir [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzDJ_rLoPnhhaagtE8yJPdkuqxS5uMsHdA5cRgbxBrOz03fHgDlVyJiVzaftP_-2muC8&usqp=CAU" height="20" width="20" />](https://elixir-lang.org/) and PHP [<img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/03/php.png" height="20" width="20" />](https://www.php.net/)
+- I developed Backend application with MySQL [<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="20" width="20" />](https://www.mysql.com/) , Erlang [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/erlang_official_logo_icon_169195.png" height="20" width="20" />](https://www.erlang.org/), Elixir [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzDJ_rLoPnhhaagtE8yJPdkuqxS5uMsHdA5cRgbxBrOz03fHgDlVyJiVzaftP_-2muC8&usqp=CAU" height="20" width="20" />](https://elixir-lang.org/), NodeJs  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9fLQtEMrQQttjLcMncakSSOTu3rM9qpiXMChtqSz0cpp36H-UTCNlD4WTKH5NOSljiQ&usqp=CAU" height="20" width="20" />](https://nodejs.org/en/) and PHP [<img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/03/php.png" height="20" width="20" />](https://www.php.net/)
 
 
 <br />
@@ -30,6 +30,7 @@
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/devrant-3521383-2944827.png" alt="" height="50" width="50" />](https://devrant.com/users/johnmelodyme)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdIbjxeE30V20HFwshvOVl50yZie4t1UfrA&usqp=CAU" alt="" height="50" width="50" />](https://stackoverflow.com/users/10758321/john-melody-melissa)
+[<img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="" height="50" width="50" />](https://www.npmjs.com/~johnmelodymel)
 
 <br />
 
