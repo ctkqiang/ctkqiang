@@ -30,6 +30,7 @@
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/devrant-3521383-2944827.png" alt="" height="50" width="50" />](https://devrant.com/users/johnmelodyme)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdIbjxeE30V20HFwshvOVl50yZie4t1UfrA&usqp=CAU" alt="" height="50" width="50" />](https://stackoverflow.com/users/10758321/john-melody-melissa)
+
 [<img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="" height="50" width="50" />](https://www.npmjs.com/~johnmelodymel)
 
 <br />
