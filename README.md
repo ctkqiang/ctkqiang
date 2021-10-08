@@ -66,7 +66,9 @@
 </br>
 
 #### Referal Links:
-[<img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="" height="90" width="150" />](https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stashaway-logo.png/1200px-Stashaway-logo.png" alt="" height="90" width="150" />](https://www.stashaway.my/referrals/johnmva)
+[<img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="" height="90" width="150" />](https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stashaway-logo.png/1200px-Stashaway-logo.png" alt="" height="90" width="150" />](https://www.stashaway.my/referrals/johnmva)[<img src="https://sashares.co.za/wp-content/uploads/2020/02/luno-app-open.jpg" alt="" height="90" width="90" />](https://www.luno.com/invite/VEUGPE)
 
-<a href="https://www.bluehost.com/track/johnmelodyme/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/johnmelodyme/120x90/120x90PW.png"> </a>
+<a href="https://www.bluehost.com/track/johnmelodyme/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/johnmelodyme/120x90/120x90PW.png"> </a> [<img src="https://balkonihijau.com/ezoimgfmt/seekvectorlogo.com/wp-content/uploads/2019/04/raiz-invest-limited-vector-logo.png?ezimgfmt=rs:372x207/rscb5/ng:webp/ngcb5" alt="" height="90" width="150" />](https://links.raiz.com.my/vneb)[<img src="https://mypromo.my/wp-content/uploads/2021/08/Versa_App.png" alt="" height="90" width="90" />]( https://versaapp.onelink.me/1bAf/referral?deep_link_value=LW39K6K2)
+
+[<img src="https://theme.zdassets.com/theme_assets/2012760/b9f8704f71306146d103e56004c166890612be9d.png" alt="" height="90" width="150" />](https://app.yoodo.com.my/assets/index.html#friendInvitation?code=ccwnn7035 )
 
