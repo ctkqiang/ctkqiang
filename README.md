@@ -1,5 +1,5 @@
 # JOHN MELODY ME
-### Software Engineer and Voice Actor.
+### Software Engineer, Bug Hunter and Voice Actor.
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge) -->
 
