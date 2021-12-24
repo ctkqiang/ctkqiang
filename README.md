@@ -60,7 +60,7 @@
 </br>
 
 #### Join My Discord Server:
-[<img src="https://i0.wp.com/i.imgur.com/nVvmlcN.png?resize=266%2C100&ssl=1" alt="" height="90"  />](https://discord.gg/HsyhFb5CCd)
+[<img src="https://i0.wp.com/i.imgur.com/nVvmlcN.png?resize=266%2C100&ssl=1" alt="" height="90"  />](https://discord.gg/WHXVxjGpJE)
 
 <!-- #### Follow me on Twitch:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twitch_logo.svg/2560px-Twitch_logo.svg.png" alt="" height="90"  />](https://www.twitch.tv/johnmelodyme)
