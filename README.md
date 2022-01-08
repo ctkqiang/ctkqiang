@@ -46,6 +46,7 @@
 <a href="https://www.buymeacoffee.com/johnmelodymel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br />
+
 #### Affliate Referal Links:
 <a href="https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
 <img src="assets/dg.png" alt="" height="80" width="160" />
