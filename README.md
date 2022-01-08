@@ -11,23 +11,23 @@
 <br />
 
 ### Fact About me:
- - I developed countless of mobile application for both `android` and `ios` (cross-platform or native)
- - I had contribute to countless of internet of things and  brain-computer interface application.
- - I am full-stack developer.
- - Looking forward to pursue for ML engineer. 
+ - I developed countless of mobile-application for both `android` and `ios` (cross-platform or native)
+ - I had contribute to countless of the  internet of things and the brain-computer interface application.
+ - I am a full-stack developer.
+ - Actively looking pursuing to be a ML engineer. 
 
 
 <br />
 
 ### For Hiring Me For Projects: 
 
-[<img src="https://camo.githubusercontent.com/c34d362e0e084f01b17fbef1b5332e97e40c75caceb85a1e705fbe5fdfe6d881/687474703a2f2f692e737461636b2e696d6775722e636f6d2f36774c69492e6a7067" alt="freelancer" height="50" width="50" />](https://www.freelancer.com/u/johnmelodyme)$~~~~$[<img src="https://play-lh.googleusercontent.com/dt2LZZxnvsW1GYjjPFYtUzCEEbmOtuVN1tqJJ0aZFf9K0sthGcMEFxOqNzuhlasxN0Is" alt="gisworks" height="50" width="50" />](https://www.gigworks.co/my/profile/view/johnmelodyme)$~~~~$[<img src="https://media-thumbs.golden.com/57rAAXNr5--cxyzt32QdnuCviOY=/200x200/smart/golden-storage-production.s3.amazonaws.com%2Ftopic_images%2F36788062b1c940abbfa1c4a631e4147d.png" alt="" height="50" width="50" />](https://www.fiverr.com/johnmelodyme)
+[<img src="https://camo.githubusercontent.com/c34d362e0e084f01b17fbef1b5332e97e40c75caceb85a1e705fbe5fdfe6d881/687474703a2f2f692e737461636b2e696d6775722e636f6d2f36774c69492e6a7067" alt="freelancer" height="50" width="50" />](https://www.freelancer.com/u/johnmelodyme)&nbsp;&nbsp;&nbsp;[<img src="https://play-lh.googleusercontent.com/dt2LZZxnvsW1GYjjPFYtUzCEEbmOtuVN1tqJJ0aZFf9K0sthGcMEFxOqNzuhlasxN0Is" alt="gisworks" height="50" width="50" />](https://www.gigworks.co/my/profile/view/johnmelodyme)&nbsp;&nbsp;&nbsp;[<img src="https://media-thumbs.golden.com/57rAAXNr5--cxyzt32QdnuCviOY=/200x200/smart/golden-storage-production.s3.amazonaws.com%2Ftopic_images%2F36788062b1c940abbfa1c4a631e4147d.png" alt="" height="50" width="50" />](https://www.fiverr.com/johnmelodyme)
 <br />
 
 ### See My Contributions:
 <br />
 
-[<img src="https://cdn.iconscout.com/icon/free/png-512/devrant-3521383-2944827.png" alt="" height="50" width="50" />](https://devrant.com/users/johnmelodyme)$~~~~$[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdIbjxeE30V20HFwshvOVl50yZie4t1UfrA&usqp=CAU" alt="" height="50" width="50" />](https://stackoverflow.com/users/10758321/john-melody-melissa)$~~~~$[<img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="" height="50" width="50" />](https://www.npmjs.com/~johnmelodymel)$~~~~$[<img src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg" alt="" height="50" width="50" />](https://dev.to/johnmelodyme)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/devrant-3521383-2944827.png" alt="" height="50" width="50" />](https://devrant.com/users/johnmelodyme)&nbsp;&nbsp;&nbsp;[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdIbjxeE30V20HFwshvOVl50yZie4t1UfrA&usqp=CAU" alt="" height="50" width="50" />](https://stackoverflow.com/users/10758321/john-melody-melissa)&nbsp;&nbsp;&nbsp;[<img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="" height="50" width="50" />](https://www.npmjs.com/~johnmelodymel)&nbsp;&nbsp;&nbsp;[<img src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg" alt="" height="50" width="50" />](https://dev.to/johnmelodyme)
 
 <br />
 
@@ -46,6 +46,6 @@
 
 <br />
 #### Affliate Referal Links:
-[<img src="assets/dg.png" alt="" height="80" width="160" />](https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) $~~$[<img src="assets/stashaway.png" alt="" height="90" width="160" />](https://www.stashaway.my/referrals/johnmva)
+[<img src="assets/dg.png" alt="" height="80" width="160" />](https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) &nbsp;&nbsp;&nbsp;[<img src="assets/stashaway.png" alt="" height="90" width="160" />](https://www.stashaway.my/referrals/johnmva)
 
 
