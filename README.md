@@ -49,7 +49,7 @@
 
 #### Affliate Referal Links:
 <a href="https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-<img src="assets/dg.png" alt="" height="80" width="160" />
+<img src="assets/dg.png" alt="" height="100" width="217" />
 </a>&nbsp;&nbsp;&nbsp;<a href="https://www.stashaway.my/referrals/johnmva">
-<img src="assets/stashaway.png" alt="" height="90" width="160" />
+<img src="assets/stashaway.png" alt="" height="100" width="217" />
 </a>
