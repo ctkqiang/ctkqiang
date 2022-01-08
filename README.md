@@ -33,19 +33,22 @@
 
 [![John Melody's Stats](https://github-readme-stats.vercel.app/api?username=johnmelodyme&show_icons=true)](https://github.com/johnmelodyme/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 </br>
 
 #### Join My Discord Server:
-[<img src="https://i0.wp.com/i.imgur.com/nVvmlcN.png?resize=266%2C100&ssl=1" alt="" height="90"  />](https://discord.gg/WHXVxjGpJE)
+<a href ="https://discord.gg/WHXVxjGpJE" >
+<img src="https://i0.wp.com/i.imgur.com/nVvmlcN.png?resize=266%2C100&ssl=1" alt="" height="90"  />
+</a>
 
 </br>
 
 #### Buy me a coffee? 
-[<a href="https://www.buymeacoffee.com/johnmelodymel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>]()
+<a href="https://www.buymeacoffee.com/johnmelodymel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br />
 #### Affliate Referal Links:
-[<img src="assets/dg.png" alt="" height="80" width="160" />](https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) &nbsp;&nbsp;&nbsp;[<img src="assets/stashaway.png" alt="" height="90" width="160" />](https://www.stashaway.my/referrals/johnmva)
-
-
+<a href="https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+<img src="assets/dg.png" alt="" height="80" width="160" />
+</a>&nbsp;&nbsp;&nbsp;<a href="https://www.stashaway.my/referrals/johnmva">
+<img src="assets/stashaway.png" alt="" height="90" width="160" />
+</a>
