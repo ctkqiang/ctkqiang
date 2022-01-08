@@ -16,6 +16,8 @@
  - I am a full-stack developer.
  - Actively looking pursuing to be a ML engineer. 
 
+ For more, refer to <a href="https://bio.link/johnmelodyme">https://bio.link/johnmelodyme</a> 
+
 
 <br />
 
