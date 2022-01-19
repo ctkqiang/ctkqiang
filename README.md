@@ -37,6 +37,8 @@
 
 </br>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="johnmelodyme" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/johnmelodyme?trk=profile-badge">John Melody M Cheng Tze Keong</a></div>
+
 #### Join My Discord Server:
 <a href ="https://discord.gg/WHXVxjGpJE" >
 <img src="https://i0.wp.com/i.imgur.com/nVvmlcN.png?resize=266%2C100&ssl=1" alt="" height="50" width="135" />
