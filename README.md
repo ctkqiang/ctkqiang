@@ -7,6 +7,8 @@
 - I'm Currently working on `WEBRTC` [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt27YL3rPF25pe0VsMjkYRvfSJd1nBY_ACm9l5-_cym-X4gzelxwAMV2yTORH2VveME9s&usqp=CAU" height="20" width="20" />](https://webrtc.org/) [<img src="https://pbs.twimg.com/profile_images/1047854321738665984/ircBy5SG.jpg" height="20" width="20" />](https://janus.conf.meetecho.com/) [<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/uvsxfb1wgj9vkdyvlkub" height="20" width="20" />](https://jitsi.org/) related projects and `Bluetooth Low Energy` [<img src="https://i.pinimg.com/originals/47/dd/0d/47dd0dbacde6aa821ad355c75452fe1c.png" height="20" width="20" />](https://developer.android.com/guide/topics/connectivity/bluetooth-le) Projects
 - I'm Looking for `Better Opportunity` [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaM3XKfS6f2qWpq1eNDu6amL67N5Tim3aVvernxbicJ43TO6rZhEWx11nKqCdPho-p5DE&usqp=CAU" height="20" width="20" />]() to be recognized.
 - Biggest Interest is `Custom Encryption` [<img src="https://nextcloud.com/media/keys.png" height="20" width="20" />]() and `Algorithms` [<img src="https://images.assetsdelivery.com/compings_v2/sabinarahimova/sabinarahimova1808/sabinarahimova180809313.jpg" height="20" width="20" />]().
+- Currently doing 3 `computer vision` project with [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/224px-Tensorflow_logo.svg.png" height="20" width="20" />](),  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCay3R7Q7VgEfAkp2P6SfH_HL5nIeBmTci4vGh-ceYgd08sg8rDryhsEflrL1Vb7cFl30&usqp=CAU" height="20" width="20" />]() and [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" height="20" width="20" />]()
+
 
 <br />
 
@@ -14,7 +16,7 @@
  - I developed countless of mobile-application for both `android` and `ios` (cross-platform or native)
  - I had contribute to countless of the  internet of things and the brain-computer interface application.
  - I am a full-stack developer.
- - Actively looking pursuing to be a ML engineer. 
+ - I am in love with `computer vision` projects 
 
  For more, refer to <a href="https://bio.link/johnmelodyme">https://bio.link/johnmelodyme</a> 
 
