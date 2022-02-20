@@ -1,5 +1,5 @@
 # JOHN MELODY ME
-### Software Engineer & Bug Hunter
+### Senior Software Engineer & Computer Vision Engineer
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10758321?style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/johnmelodymel?style=for-the-badge)
