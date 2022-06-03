@@ -35,7 +35,10 @@
 
 <br />
 
-[![John Melody's Stats](https://github-readme-stats.vercel.app/api?username=johnmelodyme&show_icons=true)](https://github.com/johnmelodyme/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img width="50%" src=https://github-readme-stats.vercel.app/api?username=johnmelodyme&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=johnmelodyme&hide_border=true" />
+</p>
 
 </br>
 
