@@ -2,7 +2,7 @@
 ### Senior Software Engineer & Computer Vision Engineer
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10758321?style=for-the-badge)
-![Twitch Status](https://img.shields.io/twitch/status/johnmelodymel?style=for-the-badge)
+![Twitch Status](https://img.shields.io/twitch/status/johnmelodyme?style=for-the-badge)
 
 - I'm Currently working on `WEBRTC` [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt27YL3rPF25pe0VsMjkYRvfSJd1nBY_ACm9l5-_cym-X4gzelxwAMV2yTORH2VveME9s&usqp=CAU" height="20" width="20" />](https://webrtc.org/) [<img src="https://pbs.twimg.com/profile_images/1047854321738665984/ircBy5SG.jpg" height="20" width="20" />](https://janus.conf.meetecho.com/) [<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/uvsxfb1wgj9vkdyvlkub" height="20" width="20" />](https://jitsi.org/) related projects and `Bluetooth Low Energy` [<img src="https://i.pinimg.com/originals/47/dd/0d/47dd0dbacde6aa821ad355c75452fe1c.png" height="20" width="20" />](https://developer.android.com/guide/topics/connectivity/bluetooth-le) Projects
 - I'm Looking for `Better Opportunity` [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaM3XKfS6f2qWpq1eNDu6amL67N5Tim3aVvernxbicJ43TO6rZhEWx11nKqCdPho-p5DE&usqp=CAU" height="20" width="20" />]() to be recognized.
