@@ -1,7 +1,7 @@
 # JOHN MELODY ME
 ### Senior Software Engineer & Computer Vision Engineer
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10758321?style=for-the-badge)
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/johnmelodyme?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 ![Twitch Status](https://img.shields.io/twitch/status/johnmelodyme?style=for-the-badge)
 
 - I'm Currently working on `WEBRTC` [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt27YL3rPF25pe0VsMjkYRvfSJd1nBY_ACm9l5-_cym-X4gzelxwAMV2yTORH2VveME9s&usqp=CAU" height="20" width="20" />](https://webrtc.org/) [<img src="https://pbs.twimg.com/profile_images/1047854321738665984/ircBy5SG.jpg" height="20" width="20" />](https://janus.conf.meetecho.com/) [<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/uvsxfb1wgj9vkdyvlkub" height="20" width="20" />](https://jitsi.org/) related projects and `Bluetooth Low Energy` [<img src="https://i.pinimg.com/originals/47/dd/0d/47dd0dbacde6aa821ad355c75452fe1c.png" height="20" width="20" />](https://developer.android.com/guide/topics/connectivity/bluetooth-le) Projects
@@ -61,3 +61,6 @@
 </a>&nbsp;&nbsp;&nbsp;<a href="https://www.stashaway.my/referrals/johnmva">
 <img src="assets/stashaway.png" alt="" height="100" width="217" />
 </a>
+
+[![John MElody Me StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10758321&layout=compact)]([https://stackoverflow.com/users/6558042/omid-nikrah](https://stackoverflow.com/users/10758321/john-melody-me))</br>
+<img src="https://github-profile-trophy.vercel.app/?username=johnmelodyme&theme=juicyfresh&no-bg=true" />
