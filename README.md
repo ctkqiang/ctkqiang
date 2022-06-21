@@ -1,5 +1,6 @@
 # JOHN MELODY ME
-### Senior Software Engineer & Computer Vision Engineer
+## Senior Software Engineer & Computer Vision Engineer
+
 </br>
 <a href="https://twitter.com/Johnmelodyme">
     <img alt="followers" title="Follow Me on Twitter" src="https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge">
