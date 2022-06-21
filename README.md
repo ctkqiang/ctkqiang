@@ -92,13 +92,6 @@
 
 <br />
 
-<p align="center">
-    <img width="50%" src=https://github-readme-stats.vercel.app/api?username=johnmelodyme&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
-    <img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=johnmelodyme&hide_border=true" />
-</p>
-
-</br>
-
 ### Follow My Socials:
 <div class="row">
     <a href ="https://www.tiktok.com/@johnmelodymel?lang=en">
@@ -126,6 +119,13 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="width:180px;height:50px" >
     </a>
 </div>
+
+</br>
+
+<p align="center">
+    <img width="50%" src=https://github-readme-stats.vercel.app/api?username=johnmelodyme&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
+    <img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=johnmelodyme&hide_border=true" />
+</p>
 
 </br>
 
