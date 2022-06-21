@@ -1,9 +1,18 @@
 # JOHN MELODY ME
 ### Senior Software Engineer & Computer Vision Engineer
-![Twitter Follow](https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge)
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/johnmelodyme?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-![Twitch Status](https://img.shields.io/twitch/status/johnmelodyme?style=for-the-badge)
 
+<a href="https://twitter.com/Johnmelodyme">
+    <img alt="followers" title="Follow Me on Twitter" src="https://img.shields.io/twitter/follow/johnmelodyme?label=@Johnmelodyme&logo=twitter&style=for-the-badge">
+</a>
+<a href="https://github.com/johnmelodyme">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/johnmelodyme?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+</a>
+<a href="https://www.twitch.tv/johnmelodyme">
+    <img alt="followers" title="Watch My Streams" src="https://img.shields.io/twitch/status/johnmelodyme?style=for-the-badge">
+</a>
+
+<div>
+</div>
 - I'm Currently working on `WEBRTC` [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt27YL3rPF25pe0VsMjkYRvfSJd1nBY_ACm9l5-_cym-X4gzelxwAMV2yTORH2VveME9s&usqp=CAU" height="20" width="20" />](https://webrtc.org/) [<img src="https://pbs.twimg.com/profile_images/1047854321738665984/ircBy5SG.jpg" height="20" width="20" />](https://janus.conf.meetecho.com/) [<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/uvsxfb1wgj9vkdyvlkub" height="20" width="20" />](https://jitsi.org/) related projects and `Bluetooth Low Energy` [<img src="https://i.pinimg.com/originals/47/dd/0d/47dd0dbacde6aa821ad355c75452fe1c.png" height="20" width="20" />](https://developer.android.com/guide/topics/connectivity/bluetooth-le) Projects
 - I'm Looking for `Better Opportunity` [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaM3XKfS6f2qWpq1eNDu6amL67N5Tim3aVvernxbicJ43TO6rZhEWx11nKqCdPho-p5DE&usqp=CAU" height="20" width="20" />]() to be recognized.
 - Biggest Interest is `Custom Encryption` [<img src="https://nextcloud.com/media/keys.png" height="20" width="20" />]() and `Algorithms` [<img src="https://images.assetsdelivery.com/compings_v2/sabinarahimova/sabinarahimova1808/sabinarahimova180809313.jpg" height="20" width="20" />]().
@@ -22,11 +31,20 @@
 
 
 <br />
-
 ### For Hiring Me For Projects: 
 
-[<img src="https://camo.githubusercontent.com/c34d362e0e084f01b17fbef1b5332e97e40c75caceb85a1e705fbe5fdfe6d881/687474703a2f2f692e737461636b2e696d6775722e636f6d2f36774c69492e6a7067" alt="freelancer" height="50" width="50" />](https://www.freelancer.com/u/johnmelodyme)&nbsp;&nbsp;&nbsp;[<img src="https://play-lh.googleusercontent.com/dt2LZZxnvsW1GYjjPFYtUzCEEbmOtuVN1tqJJ0aZFf9K0sthGcMEFxOqNzuhlasxN0Is" alt="gisworks" height="50" width="50" />](https://www.gigworks.co/my/profile/view/johnmelodyme)&nbsp;&nbsp;&nbsp;[<img src="https://media-thumbs.golden.com/57rAAXNr5--cxyzt32QdnuCviOY=/200x200/smart/golden-storage-production.s3.amazonaws.com%2Ftopic_images%2F36788062b1c940abbfa1c4a631e4147d.png" alt="" height="50" width="50" />](https://www.fiverr.com/johnmelodyme)
-<br />
+<div class ="row">
+    <div class="column">
+        <a href ="https://www.upwork.com/freelancers/~01021ae2c72056a7d4">
+            <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" style="width:30%">
+        </a>
+    </div>
+    <div class="column">
+        <a href ="https://www.fiverr.com/johnmelodyme">
+            <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" style="width:30%">
+        </a>
+    </div>
+</div>
 
 ### See My Contributions:
 <br />
