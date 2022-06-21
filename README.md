@@ -38,25 +38,58 @@
 
 <br />
 
+### Technologies I am actively familiar with
+<div class="row">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" style="width:180px;height:50px">
+    <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" alt="erlang" style="width:180px;height:50px">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" style="width:180px;height:50px">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="width:180px;height:50px">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" style="width:180px;height:50px">
+
+</div>
+
+
+</br>
+
 ### For Hiring Me For Projects: 
 
 <div class ="row">
-    <div class="column">
-        <a href ="https://www.upwork.com/freelancers/~01021ae2c72056a7d4">
-            <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" style="width:30%">
-        </a>
-    </div>
-    <div class="column">
-        <a href ="https://www.fiverr.com/johnmelodyme">
-            <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" style="width:30%">
-        </a>
-    </div>
+    <a href ="https://www.upwork.com/freelancers/~01021ae2c72056a7d4">
+        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" style="width:180px;height:50px">
+    </a>
+    <a href ="https://www.fiverr.com/johnmelodyme">
+        <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" style="width:180px;height:50px">
+    </a>
 </div>
 
+</br>
+
 ### See My Contributions:
+
 <br />
 
-[<img src="https://cdn.iconscout.com/icon/free/png-512/devrant-3521383-2944827.png" alt="" height="50" width="50" />](https://devrant.com/users/johnmelodyme)&nbsp;&nbsp;&nbsp;[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdIbjxeE30V20HFwshvOVl50yZie4t1UfrA&usqp=CAU" alt="" height="50" width="50" />](https://stackoverflow.com/users/10758321/john-melody-melissa)&nbsp;&nbsp;&nbsp;[<img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="" height="50" width="50" />](https://www.npmjs.com/~johnmelodymel)&nbsp;&nbsp;&nbsp; [<img src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg" alt="" height="50" width="50" />](https://dev.to/johnmelodyme)&nbsp;&nbsp;&nbsp;[<img src="https://pub.dev/static/hash-afd4o6gs/img/pub-dev-logo.svg" alt="" height="50"/>](https://pub.dev/packages/simple_in_app_webview)
+<div class="row">
+    <a href ="https://devrant.com/users/johnmelodyme">
+        <img src="https://video.fkul18-2.fna.fbcdn.net/v/t1.18169-9/14333116_551788078353656_5972858494404167598_n.png?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=dIqcKsFh9SAAX8XJlUE&_nc_ht=video.fkul18-2.fna&oh=00_AT-LfPhXMZ5_WzswBHB-XDneVREd_Cf7NP_PUJ970J18Tg&oe=62D544AC" alt="devrant" style="width:180px;height:50px">
+    </a>
+    <a href ="https://stackoverflow.com/users/10758321/john-melody-me">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" style="width:180px;height:50px">
+    </a>
+    </br>
+    <a href ="https://www.npmjs.com/~johnmelodymel">
+        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npmjs" style="width:180px;height:50px">
+    </a>
+    <a href ="https://dev.to/johnmelodyme">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto" style="width:180px;height:50px">
+    </a>
+    </br>
+    <a href ="https://pub.dev/packages?q=johnmelodyme">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="pub-dev" style="width:180px;height:50px">
+    </a>
+    <a href ="https://www.linkedin.com/in/johnmelodyme/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pub-dev" style="width:180px;height:50px">
+    </a>
+</div>
 
 <br />
 
@@ -67,25 +100,32 @@
 
 </br>
 
-
-#### Join My Discord Server:
-<a href ="https://discord.gg/WHXVxjGpJE" >
-<img src="https://i0.wp.com/i.imgur.com/nVvmlcN.png?resize=266%2C100&ssl=1" alt="" height="50" width="135" />
-</a>
+### Follow My Social
+<div class="row">
+    <a href ="https://www.tiktok.com/@johnmelodymel?lang=en">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="pub-dev" style="width:180px;height:50px">
+    </a>
+    <a href ="https://discord.gg/WHXVxjGpJE">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="pub-dev" style="width:180px;height:50px">
+    </a>
+    </br>
+    <a href="https://www.buymeacoffee.com/johnmelodymel">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee" style="width:180px;height:50px" >
+    </a>
+    <a href="https://www.figma.com/@johnmelodymelis">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="buymeacoffee" style="width:180px;height:50px" >
+    </a>
+</div>
 
 </br>
 
-#### Buy me a coffee? 
-<a href="https://www.buymeacoffee.com/johnmelodymel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<br />
-
 #### Affliate Referal Links:
-<a href="https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-<img src="assets/dg.png" alt="" height="100" width="217" />
-</a>&nbsp;&nbsp;&nbsp;<a href="https://www.stashaway.my/referrals/johnmva">
-<img src="assets/stashaway.png" alt="" height="100" width="217" />
-</a>
+<div class="row">
+    <a href="https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+        <img src="https://www.digitalocean.com/_next/static/media/logo.87a8f3b8.svg" alt="digital-oceans" style="width:180px;height:50px" />
+    </a>
+    <a href="https://www.stashaway.my/referrals/johnmva">
+        <img src="https://graduan.sgp1.digitaloceanspaces.com/media/266913/w770/8293bba0-a6b9-4e2d-90fb-0761ecec870a.png" alt="stashaway" style="width:200px;height:50px" />
+    </a>
+</div>
 
-[![John MElody Me StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10758321&layout=compact)]([https://stackoverflow.com/users/6558042/omid-nikrah](https://stackoverflow.com/users/10758321/john-melody-me))</br>
-<img src="https://github-profile-trophy.vercel.app/?username=johnmelodyme&theme=juicyfresh&no-bg=true" />
