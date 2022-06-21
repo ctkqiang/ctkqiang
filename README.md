@@ -13,8 +13,7 @@
 </br>
 <div class="row">
     <div class="row" title="description">
-        <p> ❧ I'm Currently working on <code>WebRTC</code> related projects <img alt="webrtc" title="webrtc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt27YL3rPF25pe0VsMjkYRvfSJd1nBY_ACm9l5-_cym-X4gzelxwAMV2yTORH2VveME9s&usqp=CAU" style="height:20px;width:20px"><img alt="janus-webrtc" title="janus-webrtc" src="https://pbs.twimg.com/profile_images/1047854321738665984/ircBy5SG.jpg" style="height:20px;width:20px"><img alt="jitsi-webrtc" title="jitsi-webrtc" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/uvsxfb1wgj9vkdyvlkub" style="height:20px;width:20px">
-        </p>
+        <p> ❧ I'm Currently working on <code>WebRTC</code> related projects.</p>
     </div>
     <div class="row">
         <p> ❧ I'm Looking for <code>Opportunities</code> to involve in different open-source projects.</p>
