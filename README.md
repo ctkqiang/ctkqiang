@@ -102,7 +102,7 @@
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="pub-dev" style="width:180px;height:50px">
     </a>
     <a href="https://www.buymeacoffee.com/johnmelodymel">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee" style="width:180px;height:50px" >
+        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buymeacoffee" style="width:180px;height:50px" >
     </a>
     <a href="https://www.figma.com/@johnmelodymelis">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="width:180px;height:50px" >
@@ -119,6 +119,12 @@
     <a href="https://twitter.com/Johnmelodyme">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="width:180px;height:50px" >
     </a>
+    <a href="https://play.google.com/store/apps/dev?id=5562851893452010796">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="twitter" style="width:180px;height:50px" >
+    </a>
+    <a href="https://www.twitch.tv/johnmelodyme">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitter" style="width:180px;height:50px" >
+    </a>
 </div>
 
 </br>
@@ -126,6 +132,7 @@
 <p align="center">
     <img width="50%" src=https://github-readme-stats.vercel.app/api?username=johnmelodyme&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
     <img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=johnmelodyme&hide_border=true" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme" />
 </p>
 
 </br>
