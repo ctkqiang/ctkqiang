@@ -132,7 +132,6 @@
 <p align="center">
     <img width="50%" src=https://github-readme-stats.vercel.app/api?username=johnmelodyme&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
     <img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=johnmelodyme&hide_border=true" />
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelodyme" />
 </p>
 
 </br>
@@ -140,10 +139,7 @@
 #### Affliate Referal Links:
 <div class="row">
     <a href="https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-        <img src="https://www.digitalocean.com/_next/static/media/logo.87a8f3b8.svg" alt="digital-oceans" style="width:180px;height:50px" />
-    </a>
-    <a href="https://www.stashaway.my/referrals/johnmva">
-        <img src="https://graduan.sgp1.digitaloceanspaces.com/media/266913/w770/8293bba0-a6b9-4e2d-90fb-0761ecec870a.png" alt="stashaway" style="width:200px;height:50px" />
+        <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digital-oceans" style="width:180px;height:50px" />
     </a>
 </div>
 
