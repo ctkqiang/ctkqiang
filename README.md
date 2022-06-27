@@ -51,6 +51,7 @@
     <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="haskell" style="width:180px;height:50px">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" style="width:180px;height:50px">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" style="width:180px;height:50px">
+    <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="arduino" style="width:180px;height:50px">
 </div>
 
 
