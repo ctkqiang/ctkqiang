@@ -72,7 +72,7 @@
 ### See My Contributions:
 <div class="row">
     <a href ="https://devrant.com/users/johnmelodyme">
-        <img src="https://video.fkul18-2.fna.fbcdn.net/v/t1.18169-9/14333116_551788078353656_5972858494404167598_n.png?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=dIqcKsFh9SAAX8XJlUE&_nc_ht=video.fkul18-2.fna&oh=00_AT-LfPhXMZ5_WzswBHB-XDneVREd_Cf7NP_PUJ970J18Tg&oe=62D544AC" alt="devrant" style="width:180px;height:50px">
+        <img src="https://hackernoon.com/hn-images/1*12DMEzlN7LQ6onrVaqFn4A.png" alt="devrant" style="width:180px;height:50px">
     </a>
     <a href ="https://stackoverflow.com/users/10758321/john-melody-me">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" style="width:180px;height:50px">
