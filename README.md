@@ -71,9 +71,6 @@
 
 ### See My Contributions:
 <div class="row">
-    <a href ="https://devrant.com/users/johnmelodyme">
-        <img src="https://hackernoon.com/hn-images/1*12DMEzlN7LQ6onrVaqFn4A.png" alt="devrant" style="width:180px;height:50px">
-    </a>
     <a href ="https://stackoverflow.com/users/10758321/john-melody-me">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" style="width:180px;height:50px">
     </a>
