@@ -33,6 +33,7 @@
  - I had contribute to countless of the  internet of things and the brain-computer interface application.
  - I am a full-stack developer.
  - I am in love with `computer vision` projects 
+ - I am a **self-taught**
 
  For more, refer to <a href="https://bio.link/johnmelodyme">https://bio.link/johnmelodyme</a> 
 
