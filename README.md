@@ -1,5 +1,5 @@
 # JOHN MELODY ME
-## Senior Software Engineer & Computer Vision Engineer
+## Senior Software Engineer
 
 <div class="row">
     <div class="row" title="description">
