@@ -1,56 +1,27 @@
-# JOHN MELODY ME
-## Senior Software Engineer
+# John Melody Me
 
-<div class="row">
-    <div class="row" title="description">
-        <p> ❧ I'm Currently working on <code>WebRTC</code> related projects.</p>
-    </div>
-    <div class="row">
-        <p> ❧ I'm Looking for <code>Opportunities</code> to involve in different open-source projects.</p>
-    </div>
-    <div class="row">
-        <p> ❧ I build mobile application and packages.</p>
-    </div>
+### About me:
+
+- I developed countless of mobile-application for both `android` and `ios` (cross-platform or native)
+- I had contribute to countless of the internet of things and the brain-computer interface application.
+- I am a full-stack developer.
+- I am in love with `computer vision` projects
+- I am a **self-taught** software engineer
+- I am also a part time trader.
+
+<div align="center">
+    <img src="./assets/skillsets.png"  width="600" height="300">   
 </div>
-<br />
 
-### Fact About me:
- - I developed countless of mobile-application for both `android` and `ios` (cross-platform or native)
- - I had contribute to countless of the  internet of things and the brain-computer interface application.
- - I am a full-stack developer.
- - I am in love with `computer vision` projects 
- - I am a **self-taught**
+<br>
 
+### Support Me
 
-### For Hiring Me For Projects: 
-<div class ="row">
-    <a href ="https://www.upwork.com/freelancers/~01021ae2c72056a7d4">
-        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" style="width:180px;height:50px">
+<div class="column">
+    <a href="https://www.huobi.com/en-us/v/register/double-invite/?invite_code=rjvc6223&inviter_id=11343840">
+        <img src="https://media.zenfs.com/en/news_direct/caa117ba53b9a537ceef0faaf74882ff"  width="200" height="60">
     </a>
-    <a href ="https://www.fiverr.com/johnmelodyme">
-        <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" style="width:180px;height:50px">
+    <a href="https://shop.ledger.com/?r=a240cf0a4c37">
+        <img src="https://cdn.shopify.com/s/files/1/2974/4858/t/278/assets/ledger-logo-long.svg?v=6450977357190936701666875522"  width="200" height="60">
     </a>
 </div>
-
-</br>
-
-
-<div class ="column">
-    <img src="https://github.com/johnmelodyme/johnmelodyme/blob/main/assets/profile.png?raw=true" alt="profile" style="width:800px;height:1000px">
-</div>
-
-
-<p align="center">
-    <img width="50%" src=https://github-readme-stats.vercel.app/api?username=johnmelodyme&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true />
-    <img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=johnmelodyme&hide_border=true" />
-</p>
-
-</br>
-
-#### Affliate Referal Links:
-<div class="row">
-    <a href="https://www.digitalocean.com/?refcode=1eb7b224dfa6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-        <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digital-oceans" style="width:180px;height:50px" />
-    </a>
-</div>
-
