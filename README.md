@@ -18,10 +18,7 @@
 ### Support Me
 
 <div class="column">
-    <a href="https://www.huobi.com/en-us/v/register/double-invite/?invite_code=rjvc6223&inviter_id=11343840">
-        <img src="https://media.zenfs.com/en/news_direct/caa117ba53b9a537ceef0faaf74882ff"  width="200" height="60">
-    </a>
     <a href="https://shop.ledger.com/?r=a240cf0a4c37">
-        <img src="https://cdn.shopify.com/s/files/1/2974/4858/t/278/assets/ledger-logo-long.svg?v=6450977357190936701666875522"  width="200" height="60">
+        <img src="https://www.wealthformula.com/wp-content/uploads/2014/01/489-binance-logo-pm-e1524770792501.jpg"  width="200" height="60">
     </a>
 </div>
