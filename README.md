@@ -18,7 +18,7 @@
 ### Support Me
 
 <div class="column">
-    <a href="https://shop.ledger.com/?r=a240cf0a4c37">
+    <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00KLY2LTQH">
         <img src="https://www.wealthformula.com/wp-content/uploads/2014/01/489-binance-logo-pm-e1524770792501.jpg"  width="200" height="60">
     </a>
 </div>
