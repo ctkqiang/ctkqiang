@@ -1,13 +1,13 @@
-# John Melody Me
+# 钟智强
 
-### About me:
+### 关于我：
 
-- I developed countless of mobile-application for both `android` and `ios` (cross-platform or native)
-- I had contribute to countless of the internet of things and the brain-computer interface application.
-- I am a full-stack developer.
-- I am in love with `computer vision` projects
-- I am a **self-taught** software engineer
-- I am also a part time trader.
+- 我为 `android` 和 `ios`（跨平台或本地）开发了无数的移动应用程序
+- 为无数的物联网和脑机接口应用做出了贡献。
+- 我是一名全栈开发人员。
+- 我爱上了“计算机视觉”项目
+- 我是一名**自学**的软件工程师
+- 我也是兼职交易员。
 
 <div align="center">
     <img src="./assets/skillsets.png"  width="600" height="300">   
