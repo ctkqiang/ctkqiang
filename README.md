@@ -18,7 +18,5 @@
 ### Support Me
 
 <div class="column">
-    <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00KLY2LTQH">
-        <img src="https://www.wealthformula.com/wp-content/uploads/2014/01/489-binance-logo-pm-e1524770792501.jpg"  width="200" height="60">
-    </a>
+    <img src="https://raw.githubusercontent.com/johnmelodyme/johnmelodyme/main/assets/%E6%88%AA%E5%B1%8F2023-04-25%20%E4%B8%8A%E5%8D%881.02.06.png"  >
 </div>
