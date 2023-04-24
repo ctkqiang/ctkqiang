@@ -10,7 +10,7 @@
 - 我也是兼职交易员。
 
 <div align="center">
-    <img src="./assets/skillsets.png"  width="600" height="300">   
+    <img src="./assets/skillsets.png" >   
 </div>
 
 <br>
