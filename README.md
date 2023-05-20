@@ -17,5 +17,5 @@
 ### 关注我
 
 <div class="column">
-    <img src="https://raw.githubusercontent.com/johnmelodyme/johnmelodyme/main/assets/ed.png"  >
+    <img src="https://raw.githubusercontent.com/johnmelodyme/johnmelodyme/main/assets/ed.png"  width="800" height="250" >
 </div>
