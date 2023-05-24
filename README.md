@@ -1,4 +1,8 @@
-# 钟智强
+<div id="banner">
+    <img src="https://github.com/johnmelodyme/johnmelodyme/blob/main/assets/ctkqiang.png?raw=true">
+</div>
+
+# 钟智强《95后的程序员》
 
 ### 关于我：
 
