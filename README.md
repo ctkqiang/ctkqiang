@@ -35,3 +35,19 @@
 </div>
 
 -->
+
+### 个人捐赠支持
+如果您认为该项目对您有所帮助，并且愿意个人捐赠以支持其持续发展和维护，🥰我非常感激您的慷慨。
+您的捐赠将帮助我继续改进和添加新功能到该项目中。 通过财务捐赠，您将有助于确保该项目保持免
+费和对所有人开放。即使是一小笔捐款也能产生巨大的影响，也是对我个人的鼓励。
+
+以下是我的支付宝二维码，您可以扫描二维码进行个人捐赠：
+
+<br />
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="https://github.com/ctkqiang/ctkqiang/blob/main/assets/IMG_9863.jpg?raw=true" style="height: 500px !important; width: 350px !important;">
+ 
+  <img src="https://github.com/ctkqiang/ctkqiang/blob/main/assets/IMG_9859.JPG?raw=true" style="height: 500px !important; width: 350px !important;">
+</div>
+
+
