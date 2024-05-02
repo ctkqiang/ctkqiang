@@ -1,6 +1,7 @@
-<div id="banner">
+<!-- <div id="banner">
     <img src="https://github.com/johnmelodyme/johnmelodyme/blob/main/assets/ctkqiang.png?raw=true">
 </div>
+-->
 
 # 钟智强
 
