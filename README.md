@@ -12,7 +12,7 @@
 计算机视觉项目是我追逐的星光。我热衷于探索技术的深邃，发现它如何赋予我们全新的感知方式。每个像素都承载着故事，它们重新定义了我们对世界的认知。我致力于让人们以前所未有的视角审视现实，感受科技带来的震撼与启迪。作为一个自我驱动的学习者，我的求知欲永不熄灭。我渴望不断成长与进步，通过持续的学习和实践，挑战自己的极限。我坚信，只有坚持不懈的努力，才能在技术领域登峰造极，让创新的火花在我的手中熊熊燃烧。
 
 
-<img src="https://myreadme.vercel.app/api/embed/ctkqiang?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!--<img src="https://myreadme.vercel.app/api/embed/ctkqiang?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />-->
 
 
 ## 我掌握的技能
