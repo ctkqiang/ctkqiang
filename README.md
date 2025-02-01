@@ -105,7 +105,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10758321/%e9%92%9f%e6%99%ba%e5%bc%ba)
 [![](https://img.shields.io/badge/微信公众号-🇨🇳钟智强『上饶满星科技』-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/ctkqiang/ctkqiang/blob/main/assets/IMG_9245.JPG?raw=true) -->
 [![微信](https://img.shields.io/badge/微信-07C160?style=for-the-badge&logo=wechat&logoColor=white)](./assets/WechatIMG56.jpg)
-[![小红书](https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](http://xhslink.com/QYwaY4)
+[![小红书](https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5dd25c5e000000000100bd7c?xhsshare=userQrCode)
 [![快手](https://img.shields.io/badge/快手-FF5000?style=for-the-badge&logo=kuaishou&logoColor=white)](https://v.kuaishou.com/f/X-2dOFZvrBXhg3qR)
 [![抖音](https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://v.douyin.com/ifnLNHT7/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ctkqiang)
