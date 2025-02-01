@@ -13,7 +13,7 @@
 ## 🛠️ 技术统计
 
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ctkqiang&show_icons=true&theme=dracula&hide=contribs&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=200&locale=cn" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ctkqiang&show_icons=true&theme=dracula&hide=contribs&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=250&locale=cn" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ctkqiang&hide=html,scss,css,tex,makefile&langs_count=8&layout=compact&theme=dracula&card_width=200&locale=cn" />
