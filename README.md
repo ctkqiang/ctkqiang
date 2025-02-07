@@ -1,5 +1,6 @@
-<img height=200 align="center" src="">
-# 钟智强 - 全栈开发者的技术之旅
+<img align="center" src="https://github.com/ctkqiang/ctkqiang/blob/main/assets/cover.jpeg?raw=true">
+
+# 钟智强 
 
 ## 👨‍💻 个人简介
 我是钟智强，一名热衷于探索技术前沿、致力于用创新驱动行业发展的全栈开发者。凭借对技术的热爱和不懈追求，我在多个领域积累了丰富的经验，始终专注于创造能切实改善人们生活的技术解决方案。
