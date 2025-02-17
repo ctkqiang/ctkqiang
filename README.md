@@ -45,7 +45,7 @@
 |支持方式|支持途径|
 | ---- | ---- |
 |支付宝|[<img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white" alt="支付宝" onclick="window.open('https://qr.alipay.com/fkx19369scgxdrkv8mxso92');">](https://qr.alipay.com/fkx19369scgxdrkv8mxso92)|
-|微信|[<img src="https://img.shields.io/badge/WeChat-7bb32e?style=for-the-badge&logo=wechat&logoColor=white" alt="微信" onclick="window.open('https://raw.githubusercontent.com/ctkqiang/ctkqiang/refs/heads/main/assets/IMG_9859.JPG');">](https://donate.stripe.com/00gg2nefu6TK1LqeUY)|
+|微信|[<img src="(https://img.shields.io/badge/微信-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信" onclick="window.open('https://raw.githubusercontent.com/ctkqiang/ctkqiang/refs/heads/main/assets/IMG_9859.JPG');">](https://raw.githubusercontent.com/ctkqiang/ctkqiang/refs/heads/main/assets/IMG_9859.JPG)|
 |Ko - fi|[<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" onclick="window.open('https://ko-fi.com/F1F5VCZJU');">](https://ko-fi.com/F1F5VCZJU)|
 |PayPal|[<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" onclick="window.open('https://www.paypal.com/paypalme/ctkqiang');">](https://www.paypal.com/paypalme/ctkqiang)|
 |Stripe|[<img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" onclick="window.open('https://donate.stripe.com/00gg2nefu6TK1LqeUY');">](https://donate.stripe.com/00gg2nefu6TK1LqeUY)|
