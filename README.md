@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/ctkqiang/ctkqiang/blob/main/assets/cover.jpeg?raw=true">
+<img align="center" src="https://github.com/ctkqiang/ctkqiang/blob/main/assets/banner.png?raw=true">
 
 # 钟智强的奇妙技术世界 🌟
 ## 👩‍💻 个人简介
