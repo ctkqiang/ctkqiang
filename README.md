@@ -61,11 +61,13 @@
 |PayPal|[<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" onclick="window.open('https://www.paypal.com/paypalme/ctkqiang');">](https://www.paypal.com/paypalme/ctkqiang)|
 |Stripe|[<img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" onclick="window.open('https://donate.stripe.com/00gg2nefu6TK1LqeUY');">](https://donate.stripe.com/00gg2nefu6TK1LqeUY)|
 
+
 ## 📱 关注我
 ### 专业平台
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ctkqiang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ctkqiang/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10758321/%e9%92%9f%e6%99%ba%e5%bc%ba)
+[![GitCode](https://img.shields.io/badge/GitCode-white?style=for-the-badge&logo=git&logoColor=white&color=red)](https://gitcode.com/ctkqiang_sr)
 
 ### 社交媒体
 [![微信](https://img.shields.io/badge/微信-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/ctkqiang/ctkqiang/blob/main/assets/WechatIMG56.jpg?raw=true)
