@@ -88,3 +88,7 @@
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/johnmelodyme)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01021ae2c72056a7d4) 
 
+
+### 我的漏洞赏金项目
+[![漏洞赏金](https://img.shields.io/badge/漏洞赏金-orange?style=for-the-badge&logo=hackthebox)](https://www.ctkqiang.xin/bug-bounty-journal)
+
