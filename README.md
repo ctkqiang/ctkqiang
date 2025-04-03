@@ -81,10 +81,12 @@
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/ctkqiang)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Johnmelodyme/)
 [![CSDN](https://img.shields.io/badge/CSDN-FF0000?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/tsz520eee?spm=1000.2115.3001.5343)
+[![QQ](https://img.shields.io/badge/QQ-000000?style=for-the-badge&logo=qq&logoColor=white)](https://user.qzone.qq.com/3072486255)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ctkqiang)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/ctkqiang)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/johnmelodyme)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01021ae2c72056a7d4) 
+
 
 
 ### 我的漏洞赏金项目
